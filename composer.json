@@ -1,0 +1,14 @@
+{
+
+    "name": "testttt/test232",
+    "version": "1.0.0",
+    "description": "sdsdsjdksjdksjdksk",
+    "keywords": [
+        "example123",
+        "testing456"
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    }
+}
